@@ -1,0 +1,43 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7E19-A8CC
+
+ Directory of C:\
+
+01/30/2018  02:06 PM    <DIR>          Dell
+11/07/2007  09:00 AM            17,734 eula.1028.txt
+11/07/2007  09:00 AM            17,734 eula.1031.txt
+11/07/2007  09:00 AM            10,134 eula.1033.txt
+11/07/2007  09:00 AM            17,734 eula.1036.txt
+11/07/2007  09:00 AM            17,734 eula.1040.txt
+11/07/2007  09:00 AM               118 eula.1041.txt
+11/07/2007  09:00 AM            17,734 eula.1042.txt
+11/07/2007  09:00 AM            17,734 eula.2052.txt
+11/07/2007  09:00 AM            17,734 eula.3082.txt
+05/03/2018  02:36 PM    <DIR>          Files
+11/07/2007  09:00 AM             1,110 globdata.ini
+11/07/2007  09:03 AM           562,688 install.exe
+11/07/2007  09:00 AM               843 install.ini
+11/07/2007  09:03 AM            76,304 install.res.1028.dll
+11/07/2007  09:03 AM            96,272 install.res.1031.dll
+11/07/2007  09:03 AM            91,152 install.res.1033.dll
+11/07/2007  09:03 AM            97,296 install.res.1036.dll
+11/07/2007  09:03 AM            95,248 install.res.1040.dll
+11/07/2007  09:03 AM            81,424 install.res.1041.dll
+11/07/2007  09:03 AM            79,888 install.res.1042.dll
+11/07/2007  09:03 AM            75,792 install.res.2052.dll
+11/07/2007  09:03 AM            96,272 install.res.3082.dll
+01/30/2018  03:35 PM    <DIR>          Intel
+05/21/2018  04:45 PM    <DIR>          Jagadesh
+07/13/2009  09:20 PM    <DIR>          PerfLogs
+05/21/2018  04:55 PM    <DIR>          Program Files
+05/21/2018  08:57 AM    <DIR>          Program Files (x86)
+03/28/2018  10:32 AM    <DIR>          Projects
+12/18/2017  03:36 PM                33 StopProc.bat
+05/21/2018  07:33 PM    <DIR>          temp
+05/21/2018  09:00 AM    <DIR>          Users
+11/07/2007  09:00 AM             5,686 vcredist.bmp
+11/07/2007  09:50 AM         1,927,956 VC_RED.cab
+11/07/2007  09:53 AM           242,176 VC_RED.MSI
+03/09/2018  02:24 PM    <DIR>          Windows
+              25 File(s)      3,664,530 bytes
+              11 Dir(s)  341,851,217,920 bytes free
